@@ -10,9 +10,7 @@ I specifically learned about using commas instead of spacing when combining clas
 ## Usage
 Visit the page at: https://taylorstrubhar.github.io/horiseon/#social-media-marketing
 
-Screenshot: 
-    
-    ![preview of the website](assets/images/readmescreengrab.png?raw=true)
+Screenshot:  ![preview of the website](assets/images/readmescreengrab.png?raw=true)
     
 
 ## License
