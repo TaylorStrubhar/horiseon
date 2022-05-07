@@ -12,7 +12,7 @@ Visit the page at: https://taylorstrubhar.github.io/horiseon/#social-media-marke
 
 Screenshot: 
     
-    ![preview of the website](assets/images/readmescreengrab.png)
+    [preview of the website](assets/images/readmescreengrab.png)
     
 
 ## License
