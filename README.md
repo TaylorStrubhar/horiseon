@@ -11,9 +11,9 @@ I specifically learned about using commas instead of spacing when combining clas
 Visit the page at: https://taylorstrubhar.github.io/horiseon/#social-media-marketing
 
 Screenshot: 
-    ```md
+    
     ![preview of the website](assets/images/readmescreengrab.png)
-    ```
+    
 
 ## License
 GNU GENERAL PUBLIC LICENSE
